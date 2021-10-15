@@ -1,0 +1,14 @@
+{
+  "name": "m3u8_downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-cyan": "^0.1.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "node-fetch": "^2.6.1",
+    "progress": "^2.0.3",
+    "prompt-base": "^5.0.0",
+    "rimraf": "^3.0.2"
+  }
+}
